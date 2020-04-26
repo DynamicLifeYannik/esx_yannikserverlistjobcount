@@ -14,14 +14,7 @@ esx_yannikjobcountserverlist
 
 ❓ How do I add other jobs?
 
-Just go to server.lua copy the code here an example:
-
-dealer = 0
-if xPlayer.job.name == 'dealer' then
-	dealer = dealer + 1
-end
-
-SetConvarServerInfo('💊Dealer', dealer)
+https://forum.cfx.re/t/release-esx-jobs-online-in-the-server-list/1169394
 
 Have fun!
 
